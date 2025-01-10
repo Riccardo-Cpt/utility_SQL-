@@ -1,2 +1,4 @@
 Contenuti:
--Sccript utile per produrre data lineage in PL/SQL da tabelle di metadati
+
+
+-Script utile per produrre data lineage in PL/SQL da tabelle di metadati
